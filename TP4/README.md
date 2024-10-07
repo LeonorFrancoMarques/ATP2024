@@ -8,16 +8,16 @@
 O TP4 consistiu na criação de uma aplicação que manipula números inteiros. Esta aplicação foi criada em Python.
 
 Esta aplicação tem um menu, onde se encontram todas as operações possíveis de realizar. Cada opção tem o seu número correspondente:
-    * (1) Criar Lista 
-    * (2) Ler Lista
-    * (3) Soma
-    * (4) Média
-    * (5) Maior
-    * (6) Menor
-    * (7) Está ordenada por ordem crescente
-    * (8) Está ordenada por ordem decrescente
-    * (9) Procura um elemento
-    * (0) Sair
+*(1) Criar Lista 
+*(2) Ler Lista
+*(3) Soma
+*(4) Média
+*(5) Maior
+*(6) Menor
+*(7) Está ordenada por ordem crescente
+*(8) Está ordenada por ordem decrescente
+*(9) Procura um elemento
+*(0) Sair
 
 Primeiramente, é perguntado ao utilizador qual a opção que este quer escolher (entre 0 e 9). Se o utilizador não escolher uma opção válida, é pedido para escolher outra opção. Enquanto a opção for diferente da opção Sair: é realizada a função correspondente ao número escolhido e, depois de executada, é novamente colocado no monitor o menu. Se o utilizador escolher a opção Sair: o programa encerra com uma mensagem. É para isto que se criou o menu, ou seja, para a aplicação executar a função que o utilizador escolher no menu.
 
